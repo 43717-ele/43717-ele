@@ -1,4 +1,4 @@
-- 👋 Olá! Meu nick é 43717-ele.
+- 👋 Olá! Meu nick é 43717-Ele.
 - 👀 Estou interessado em aprender a programar, para me divertir um pouco e levantar um $$$ extra.
 - 🌱 Atualmente estou aprendendo um pouco sobre Python através do app de celular Programming Hero.
 - 💞️ Estou aberto a qualquer ajuda ou sugestão, só peço um pouquinho de paciência, ok?
